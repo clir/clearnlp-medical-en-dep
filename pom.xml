@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.emory.clir</groupId>
   <artifactId>clearnlp-medical-en-dep</artifactId>
-  <version>3.1-SNAPSHOT</version>
+  <version>3.1</version>
   <packaging>jar</packaging>
   <name>clearnlp-medical-en-dep</name>
   <url>http://www.clearnlp.com</url>
@@ -11,7 +11,7 @@
     <url>https://github.com/clir/clearnlp-medical-en-dep</url>
     <connection>scm:git:git://github.com:clir/clearnlp-medical-en-dep.git</connection>
     <developerConnection>scm:git:git@github.com:clir/clearnlp-medical-en-dep.git</developerConnection>
-    <tag>clearnlp-medical-en-dep-3.0</tag>
+    <tag>clearnlp-medical-en-dep-3.1</tag>
   </scm>
 
   <licenses>
